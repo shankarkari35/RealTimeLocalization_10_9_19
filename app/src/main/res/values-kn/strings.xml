@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರು</string>
+    <string name="Change">ಹೆಸರು</string>
+    <string name="Pssword">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="Submit">" ಸಲ್ಲಿಸಲು"</string>
+    <string name="Name">ಹೆಸರು</string>
+</resources>

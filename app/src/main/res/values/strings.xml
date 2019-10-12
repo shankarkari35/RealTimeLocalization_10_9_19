@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">RealTimeLocalization_10_9_19</string>
+    <string name ="Name" translatable="false">Name</string>
+    <string name ="Pssword" translatable="false">Password</string>
+    <string name ="Submit" translatable="false">Submit</string>
+    <string name ="Change" translatable="false">Change</string>
+</resources>
